@@ -6,3 +6,5 @@ In this tutorial we learn about:
 ### React-native :- Android and iOS Applications,
 ### MongoDB:- NoSQL database
 ### NODE JS - The future of programming
+Covering all the basics and adcance concept in above emntion technologies.
+
